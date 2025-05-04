@@ -1,0 +1,10 @@
+{
+    "name": "fast/phpcms-v2",
+    "authors": [
+        {
+            "name": "Vitalij",
+            "email": "krinickij.v.a@gmail.com"
+        }
+    ],
+    "require": {}
+}
